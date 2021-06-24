@@ -12,9 +12,10 @@ A repository for storing my files as I learn quantum computing
 * Bitflip: It flips the qbit. 
   
   Matrix 
-![image](https://user-images.githubusercontent.com/48092867/123316799-e4ed8680-d54a-11eb-8b2a-c2327c43e024.png)
+  
+  ![image](https://user-images.githubusercontent.com/48092867/123316799-e4ed8680-d54a-11eb-8b2a-c2327c43e024.png)
 
-Eg: ![image](https://user-images.githubusercontent.com/48092867/123316827-ec149480-d54a-11eb-9579-8f29e64a65ac.png) ![image](https://user-images.githubusercontent.com/48092867/123316526-8f18de80-d54a-11eb-87a2-44ccff92f34b.png) => ![image](https://user-images.githubusercontent.com/48092867/123316966-19f9d900-d54b-11eb-804e-ec6added9e68.png)
+Eg.: ![image](https://user-images.githubusercontent.com/48092867/123316827-ec149480-d54a-11eb-9579-8f29e64a65ac.png) ![image](https://user-images.githubusercontent.com/48092867/123316526-8f18de80-d54a-11eb-87a2-44ccff92f34b.png) ![image](https://user-images.githubusercontent.com/48092867/123320198-1405f700-d54f-11eb-951b-27f45b4f232d.png)
 
 25% chance of collapsing to 0 and 75% chance of collapsing to 1 gets converted to 75% chance of collapsing to 0 and 25% chance of collapsing to 1
 
